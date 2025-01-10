@@ -1,41 +1,5 @@
 @charset "utf-8";
-/*
-.centerItems{
-    align-items: center;
-}
-
-
-.aqua{
-    color: aqua;
-}
-
-.center{
-    text-align: center;
-}
-
-
-.justifyLeft{
-    text-align: left;
-}
-
-
-.justifyRight{
-    text-align: right;
-}
-
 
 .XLarge{
     font-size: 1.8em;
-}
-
-
-body {
-    scroll-snap-type: x mandatory;
-    background-color: gray;
-}
-
-.home{
-    max-width: 600px;
-    margin:10px;
-    border:15px;
 }
