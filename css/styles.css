@@ -1,5 +1,33 @@
 @charset "utf-8";
 
-.XLarge{
+largeText{
     font-size: 1.8em;
+}
+
+.centerText{
+    text-align: center;
+}
+
+.centerItems{
+    align-items: center;
+}
+
+.heavyText {
+    font-weight: bold;
+}
+
+.lighterText{
+    font-weight: lighter;
+}
+
+.left::after{
+    display: block;
+    float: left;
+    clear: right;
+}
+
+.right::after{
+    display:block;
+    float: right;
+    clear: left;
 }
